@@ -2,7 +2,9 @@ Of course, here's the GitHub README with your name, Sadeesha Jayaweera:
 
 # Invisible Card - HTML & CSS Project
 
-![Invisible Card Preview](card-preview.png)
+![Invisible Card Preview]
+
+(preview.png)
 
 ## About Me
 
